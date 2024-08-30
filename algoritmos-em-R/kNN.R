@@ -153,7 +153,7 @@ kNN <- function(train, test, tr.class, te.class, dist = 'euclidean', k = 3, lamb
                                     geom_text(aes(label = Count), color = "black") +
                                     scale_fill_gradient(low = "gray", high = "salmon", na.value = "white") +
                                     scale_y_discrete(limits = rev(labs)) + 
-                                    labs(x = "Classes Preditas", y = "Classes Atuais", title = "Matriz de Confusão") +
+                                    labs(x = "Classes Atuais", y = "Classes Preditas", title = "Matriz de Confusão") +
                                     theme_minimal() +
                                     theme(axis.text.x = element_text(angle = 45, hjust = 1),
                                           axis.text.y = element_text(angle = 45), 
