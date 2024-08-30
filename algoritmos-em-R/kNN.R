@@ -306,11 +306,16 @@ kNN <- function(train, test, tr.class, te.class, dist = 'euclidean', k = 3, lamb
                   'Confidence Interval of Kappa' = c(Lower = ci_kappa_low, Upper = ci_kappa_high))
 }
 
-set.seed(123)
-train_indices <- sample(1:nrow(iris), size = 0.7 * nrow(iris))
-train_data <- iris[train_indices, 1:4]
-test_data <- iris[-train_indices, 1:4]
-train_labels <- iris[train_indices, 5]
-test_labels <- iris[-train_indices, 5]
+# Classificação supervionada: Espécies de plantas iris do conjunto iris
+
+data(iris)
+                          
+set.seed(123) # Semente para reprodução do algoritmo
+                          
+train_indices     <- sample(1:nrow(iris), size = 0.7 * nrow(iris))
+train_data        <- iris[train_indices, 1:4]
+test_data         <- iris[-train_indices, 1:4]
+train_labels      <- iris[train_indices, 5]
+test_labels       <- iris[-train_indices, 5]
 
 kNN(train = train_data, test = test_data, tr.class = train_labels, te.class = test_labels, dist = 'euclidean', k = 3)
