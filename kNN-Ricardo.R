@@ -63,7 +63,7 @@
 #     k = 5)
 #######################################################################################################################
 
-kNN                 <- function(train, test, tr.class, te.class, dist = 'euclidean', k = 3, lambda)
+kNN <- function(train, test, tr.class, te.class, dist = 'euclidean', k = 3, lambda)
 {
     # Códigos de erro para entrada de argumentos inválidos 
 
