@@ -15,10 +15,9 @@ Capacitar os alunos a compreenderem e aplicarem as principais técnicas de apren
 ## Conteúdo Programático
 
 1. Introdução ao Aprendizado de Máquina
-   - 1.1. O que é Aprendizado de Máquina?
-   - 1.2. Contextualização Histórica
-   - 1.3. Plataformas de Aprendizado de Máquina
-   - 1.4. Aprendizado de Máquina na Prática
+   - 1.1. Contextualização Histórica
+   - 1.2. Plataformas de Aprendizado de Máquina
+   - 1.3. Aprendizado de Máquina na Prática
 2. Ferramentas de Aprendizado de Máquina
    - 2.1. Terminologia de Aprendizado de Máquina 
    - 2.2. Definição do Problema de Aprendizado
