@@ -3,7 +3,7 @@
 ## Introdução
 
 <div align="justify">
-Este repositório corresponde à disciplina **Tópicos Especiais em Estatística: Introdução ao Machine Learning** oferecida para alunos do 4º ano do curso de Estatística da Universidade Estadual Paulista “Júlio de Mesquita Filho” (FCT/UNESP) - Câmpus de Presidente Prudente. Com uma carga horária total de 60 horas, sendo 45 horas teóricas e 15 horas práticas, a disciplina é ministrada pelo Prof. Dr. Ricardo Puziol de Oliveira. Este curso oferece uma introdução abrangente aos fundamentos do aprendizado de máquina, focando nas técnicas supervisionadas mais usadas em aplicações reais. Ao longo das aulas, os alunos desenvolvem conhecimentos teóricos e práticos para aplicar algoritmos de aprendizado de máquina em problemas complexos, com o objetivo de prepará-los para desafios e demandas do mercado de trabalho em ciência de dados.
+Este repositório corresponde à disciplina *Tópicos Especiais em Estatística: Introdução ao Machine Learning* oferecida para alunos do 4º ano do curso de Estatística da Universidade Estadual Paulista “Júlio de Mesquita Filho” (FCT/UNESP) - Câmpus de Presidente Prudente. Com uma carga horária total de 60 horas, sendo 45 horas teóricas e 15 horas práticas, a disciplina é ministrada pelo Prof. Dr. Ricardo Puziol de Oliveira. Este curso oferece uma introdução abrangente aos fundamentos do aprendizado de máquina, focando nas técnicas supervisionadas mais usadas em aplicações reais. Ao longo das aulas, os alunos desenvolvem conhecimentos teóricos e práticos para aplicar algoritmos de aprendizado de máquina em problemas complexos, com o objetivo de prepará-los para desafios e demandas do mercado de trabalho em ciência de dados.
 </div>
 
 ## Objetivo
