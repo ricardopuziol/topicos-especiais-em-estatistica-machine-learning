@@ -15,42 +15,59 @@ Capacitar os alunos a compreenderem e aplicarem as principais técnicas de apren
 ## Conteúdo Programático
 
 1. Introdução ao Aprendizado de Máquina
-   - 1.1. Motivação
-   - 1.2. Contextualização
-   - 1.3. Histórico
-   - 1.4. Aplicações
-2. Análise e Pré-processamento de Dados
-   - 2.1. Terminologia de Aprendizado de Máquina
-   - 2.2. Pré-processamento de Dados
-   - 2.3. Ferramentas de Análise Estatística de Dados
-3. Aprendizado Supervisionado
-   - 3.1. Introdução
-   - 3.2. K-Nearest Neighbor (kNN)
-   - 3.3. Método de Seleção de Variáveis
-   - 3.4. Regressão Logística
-   - 3.5. Naïve Bayes
-   - 3.6. Árvores de Decisão e Regras de Decisão
-   - 3.7. Rede Neural Artificial
-   - 3.8. Support Vector Machine
-   - 3.9. Regressão Linear 
-       - 3.9.1. Introdução
-       - 3.9.2. Penalizações em Regressão: Ridge, LASSO, Elastic Net.
-       - 3.9.2. Least Angle Regression (LARS)
-4. Avaliação de Métodos de Aprendizado Supervisionado
-   - 4.1. Validação Cruzada 
-   - 4.2. Matriz de Confusão
-   - 4.3. Métricas de Erro
-   - 4.4. Sensibilidade e Especificidade
-   - 4.5. Acurácia, F-Score e Coeficiente Kappa
-   - 4.6. Curvas ROC
-   - 4.7. Seleção de Atributos
-5. Aprendizado Não-Supervisionado
-   - 5.1. Introdução
-   - 5.2. Métodos Hierárquicos
-   - 5.3. Métodos de Seleção de Número de Clusters (Elbow, Silhouette, Davies-Bouldin, etc)
-   - 5.4. K-means
-   - 5.5. K-medoids
-   - 5.6. DBSCAN
+   - 1.1. O que é Aprendizado de Máquina?
+   - 1.2. Contextualização Histórica
+   - 1.3. Plataformas de Aprendizado de Máquina
+   - 1.4. Aprendizado de Máquina na Prática
+2. Ferramentas de Aprendizado de Máquina
+   - 2.1. Terminologia de Aprendizado de Máquina 
+   - 2.2. Definição do Problema de Aprendizado
+   - 2.3. Tipos de Aprendizado de Máquina
+3. Análise e Pré-Processamento de Dados
+   - 3.1. Pré-processamento de Dados
+       - 3.1.1. Limpeza de dados (data cleaning) 
+       - 3.1.2. Técnicas de redução de dimensionalidade
+       - 3.1.3. Técnicas de transformação e normalização de dados
+   - 3.2. Ferramentas Computacionais de Análise Exploratória de Dados
+       - 3.2.1. Ambientes R e Python
+       - 3.2.2. Representações Gráficas de Dados: Uso do ggplot2
+       - 3.2.3. Manipulação de Dados: Uso do tidyverse
+4. Aprendizado Supervisionado
+   - 4.1. Introdução
+   - 4.2. Divisões de Dados: Treino, Teste e Validação
+       - 4.2.1. Método hold-out
+       - 4.2.2. Método k-fold
+       - 4.2.3. Método Bootstrap
+   - 4.3. Métodos de Seleção de Atributos
+       - 4.3.1. Método da Força Bruta
+       - 4.3.2. Método Wrapper
+       - 4.3.3. Métodos Qui-Quadrado
+       - 4.3.4. Métodos dos Componentes Principais
+       - 4.3.5. Métodos Relief
+   - 4.4. Algoritmos de Classificação Supervisionada
+       - 4.4.1. K-Nearest Neighbor (kNN)
+       - 4.4.2. Regressão Logística
+       - 4.4.3. Naïve Bayes
+       - 4.4.4. Árvores de Classificação
+       - 4.4.5. Máquinas de Vetor de Suporte
+       - 4.4.6. Redes Neurais Artificiais de Classificação
+   - 4.5. Algoritmos de Regressão Supervisionada
+       - 4.5.1. Regressão Linear: Ridge, LASSO, e ElasticNet
+       - 4.5.2. K-Nearest Neighbor (kNN)
+       - 4.5.3. Árvores de Regressão
+       - 4.5.4. Regressão de Vetor de Suporte
+       - 4.5.5. Redes Neurais Artificiais de Regressão
+5. Avaliação de Métodos de Aprendizado Supervisionado
+   - 5.1. Métodos de Validação Cruzada 
+   - 5.2. Métricas de Algoritmos de Classificação Supervisionada
+       - 5.2.1. Sensibilidade, Especificidade e Valores Preditivos
+       - 5.2.2. Acurácia, F-Score e Coeficiente Kappa
+       - 5.2.3. Curvas ROC e PRC
+   - 5.3. Métricas de Algoritmos de Regressão Supervisionada
+       - 5.3.1. Coeficiente de Determinação (R²)
+       - 5.3.2. Erro Quadrático Médio
+       - 5.3.3. Erro Médio Absoluto
+       - 5.3.4. Critérios de Informação de Akaike (AIC) e Bayesiano (BIC)
 
 ## Bibliografia
 
