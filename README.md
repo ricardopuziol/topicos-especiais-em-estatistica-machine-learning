@@ -3,13 +3,13 @@
 ## Introdução
 
 <div align="justify">
-Este é um repositório referente a disciplina de Tópicos Especiais em Estatística: Machine Learning do 4º ano do curso de Estatística da Universidade Estadual Paulista “Júlio Mesquita Filho” (FCT/UNESP) - Câmpus de Presidente Prudente. A disciplina possui uma carga horária de 60 horas (45h teóricas e 15h práticas) e é ministrada pelo Prof. Dr. Ricardo Puziol de Oliveira. 
+Este repositório corresponde à disciplina **Tópicos Especiais em Estatística: Introdução ao Machine Learning** oferecida para alunos do 4º ano do curso de Estatística da Universidade Estadual Paulista “Júlio de Mesquita Filho” (FCT/UNESP) - Câmpus de Presidente Prudente. Com uma carga horária total de 60 horas, sendo 45 horas teóricas e 15 horas práticas, a disciplina é ministrada pelo Prof. Dr. Ricardo Puziol de Oliveira. Este curso oferece uma introdução abrangente aos fundamentos do aprendizado de máquina, focando nas técnicas supervisionadas mais usadas em aplicações reais. Ao longo das aulas, os alunos desenvolvem conhecimentos teóricos e práticos para aplicar algoritmos de aprendizado de máquina em problemas complexos, com o objetivo de prepará-los para desafios e demandas do mercado de trabalho em ciência de dados.
 </div>
 
 ## Objetivo
 
 <div align="justify">
-Capacitar os alunos a compreenderem e aplicarem as principais técnicas de aprendizado de máquina, com ênfase nos métodos supervisionados que são mais requisitados no mercado de trabalho. O curso visa desenvolver habilidades práticas para resolver problemas de complexidade moderada/alta utilizando algoritmos de aprendizado de máquina.
+Este curso visa capacitar os alunos para compreender e aplicar técnicas de aprendizado de máquina em diferentes contextos práticos e teóricos. Os principais objetivos incluem: (1) introduzir os princípios e fundamentos que orientam o aprendizado de máquina, com foco em métodos supervisionados e suas aplicações; (2) capacitar os alunos a aplicar técnicas de pré-processamento de dados, escolha de algoritmos, e avaliação de desempenho de modelos, utilizando ferramentas como R e Python; (3) ensinar os métodos de aprendizado de máquina mais utilizados e requisitados no mercado, enfatizando a aplicabilidade e o potencial desses métodos em cenários reais e complexos; (4) capacitar os alunos a analisar a adequação dos modelos de aprendizado de máquina para diferentes tipos de problemas, promovendo uma visão crítica sobre suas vantagens e limitações.
 </div>
 
 ## Conteúdo Programático
@@ -67,6 +67,13 @@ Capacitar os alunos a compreenderem e aplicarem as principais técnicas de apren
        - 5.3.2. Erro Quadrático Médio
        - 5.3.3. Erro Médio Absoluto
        - 5.3.4. Critérios de Informação de Akaike (AIC) e Bayesiano (BIC)
+
+## Metodologia de Ensino
+
+* *Método Baseado em Projetos:* Ao longo do curso, os alunos irão desenvolver um projeto em equipes, abordando todas as etapas de um processo de *Machine Learning*: desde a coleta e pré-processamento dos dados até a escolha e avaliação de modelos.
+* *Aulas Interativas com Estudos de Caso:* Nas aulas, serão considerados estudos de caso reais e atualizados que demonstrem o uso de *Machine Learning* em diferentes áreas, como saúde, economia e meio ambiente.
+* *Laboratórios de Estatística Aplicada:* As aulas serão ministradas em um laboratório de estatística aplicada para que os alunos possam aplicar diretamente o conteúdo discutido usando linguagens como R e Python.
+* *Livro-Texto:* A disciplina conta com livro-texto próprio, de forma objetiva e estruturada, para facilitar a compreensão dos conteúdos.
 
 ## Bibliografia
 
