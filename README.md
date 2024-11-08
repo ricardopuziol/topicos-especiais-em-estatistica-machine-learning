@@ -9,7 +9,7 @@ Este é um repositório referente a disciplina de Tópicos Especiais em Estatís
 ## Objetivo
 
 <div align="justify">
-Capacitar os alunos a compreenderem e aplicarem as principais técnicas de aprendizado de máquina, abordando tanto métodos supervisionados quanto não supervisionados. O curso visa desenvolver habilidades práticas para resolver problemas de complexidade moderada utilizando algoritmos de aprendizado de máquina.
+Capacitar os alunos a compreenderem e aplicarem as principais técnicas de aprendizado de máquina, com ênfase nos métodos supervisionados que são mais requisitados no mercado de trabalho. O curso visa desenvolver habilidades práticas para resolver problemas de complexidade moderada/alta utilizando algoritmos de aprendizado de máquina.
 </div>
 
 ## Conteúdo Programático
