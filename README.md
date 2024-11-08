@@ -77,14 +77,14 @@ Este curso visa capacitar os alunos para compreender e aplicar técnicas de apre
 
 ## Bibliografia
 
-* FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina. LTC Gen, 2021.
-* HASTIE, T.; TIBSHIRANI, R.; FRIEDMAN, J. The Elements of Statistical Learning: Data Min-ing, Inference and Prediction. Springer, 2009. 
-* ROGERS, S.; GIROLAMI, M. A First Course in Machine Learning. Chapman and Hall/CRC, 2016.
-* LANTZ, B. Machine learning with R: expert techniques for predictive modeling. Packt publishing ltd, 2019.
-* MITCHELL, T. M. Machine Learning. McGraw Hill, 1997.
-* RASCHKA, S. Python Machine Learning. Ed. Packet, 2015.
-* HAYKIN, S. Neural Networks: A Comprehensive Foundation. Pearson, 2ª ed. 1999.
-* BISHOP, C. M. Pattern Recognition and Machine Learning. Springer, 2006.Ian 
-* ROBERT, C. Machine Learning: A probabilistic Perspective. 2014.
-* SMOLA, A. Introduction to Machine Learning. Cambridge University, UK, 2008.
-* MICHIE, D. Machine learning, neural and statistical classification. Ellis Horwood, 1995.
+* FACELI, K.; LORENA, A. C.; GAMA, J.; CARVALHO, A. *Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina*. LTC Gen, 2021.
+* HASTIE, T.; TIBSHIRANI, R.; FRIEDMAN, J. *The Elements of Statistical Learning: Data Mining, Inference and Prediction*. Springer, 2009. 
+* ROGERS, S.; GIROLAMI, M. *A First Course in Machine Learning*. Chapman and Hall/CRC, 2016.
+* LANTZ, B. *Machine Learning with R: Expert Techniques for Predictive Modeling*. Packt publishing ltd, 2019.
+* MITCHELL, T. M. *Machine Learning*. McGraw Hill, 1997.
+* RASCHKA, S. *Python Machine Learning*. Ed. Packet, 2015.
+* HAYKIN, S. *Neural Networks: A Comprehensive Foundation*. Pearson, 2ª ed. 1999.
+* BISHOP, C. M. *Pattern Recognition and Machine Learning*. Springer, 2006.Ian 
+* ROBERT, C. *Machine Learning: A Probabilistic Perspective*. 2014.
+* SMOLA, A. *Introduction to Machine Learning*. Cambridge University, UK, 2008.
+* MICHIE, D. *Machine Learning, Neural and Statistical Classification*. Ellis Horwood, 1995.
