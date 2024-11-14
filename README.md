@@ -70,10 +70,10 @@ Este curso visa capacitar os alunos para compreender e aplicar técnicas de apre
 
 ## Metodologia de Ensino
 
-* <div align="justify">Método Baseado em Projetos: Ao final do curso, os alunos irão desenvolver um projeto em equipes, abordando todas as etapas de um processo de aprendizado de máquina: desde a coleta e pré-processamento dos dados até a escolha e avaliação de modelos.</div>
-* <div align="justify">Aulas Interativas com Estudos de Caso: Nas aulas, serão considerados estudos de caso reais e atualizados que demonstrem o uso de aprendizado de máquina em diferentes áreas, como saúde, economia e meio ambiente.</div>
-* <div align="justify">Laboratórios de Estatística Aplicada: As aulas serão ministradas em um laboratório de estatística aplicada para que os alunos possam aplicar diretamente o conteúdo discutido usando linguagens como R e Python.</div>
-* <div align="justify">Livro-Texto: A disciplina conta com livro-texto próprio, de forma objetiva e estruturada, para facilitar a compreensão dos conteúdos.</div>
+* **Método Baseado em Projetos:** <div align="justify">Ao final do curso, os alunos irão desenvolver um projeto em equipes, abordando todas as etapas de um processo de aprendizado de máquina: desde a coleta e pré-processamento dos dados até a escolha e avaliação de modelos.</div>
+* **Aulas Interativas com Estudos de Caso:** <div align="justify">Nas aulas, serão considerados estudos de caso reais e atualizados que demonstrem o uso de aprendizado de máquina em diferentes áreas, como saúde, economia e meio ambiente.</div>
+* **Laboratório de Estatística Aplicada:** <div align="justify">As aulas serão ministradas em um laboratório de estatística aplicada para que os alunos possam aplicar diretamente o conteúdo discutido usando linguagens como R e Python.</div>
+* **Livro-Texto:** <div align="justify">A disciplina conta com livro-texto próprio, de forma objetiva e estruturada, para facilitar a compreensão dos conteúdos.</div>
 
 ## Bibliografia
 
